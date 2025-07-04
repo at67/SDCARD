@@ -1,10 +1,10 @@
 <h1>SDCARD Browser</h1>
-I've created an SDCard browser for those of you in the possession of Norgate's excellent Pluggy Reloaded interface card.
-
+I've created an SDCard browser for those of you in the possession of Norgate's excellent Pluggy Reloaded interface card.<br>
+<br>
 Here's a video : https://www.youtube.com/watch?v=ozaQTK0C2vM
 <br>
 <h2>Building:</h2>
-Copy the contents of the folder you downloaded into a BabelFish folder and use the BabelFish.ino to launch whatever Arduino IDE you use to program your Promicro, make sure to select the Release version, the Debug version will not fit!
+Copy the contents of the folder you downloaded into a BabelFish folder and use the BabelFish.ino to launch whatever Arduino IDE you use to program your Promicro, make sure to select the Release version, the Debug version will not fit!<br>
 
 Make sure your IDE settings look like this, (original image courtesy of Marcel).
 ![Alt text](Arduino_IDE.png "Arduino IDE")
@@ -38,7 +38,7 @@ You need to own a Pluggy Reloaded interface card. You also need to be able to pr
 
 **Files:**
 - Click on the 'DOWNLOAD' button in the top right hand corner when viewing the BabelFish folder, this will download a zip file containing the folder's contents: https://www.dropbox.com/sh/d8v284j9j41b ... WuCUa?dl=0
-<br>
+
 <h2>ROM version:</h2>
 - You need to own a Pluggy Reloaded interface card.
 - You need to be able to program and upload to the Arduino micro on the Pluggy Reloaded interface card.
